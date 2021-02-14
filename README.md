@@ -10,4 +10,3 @@ Also extended our project by adding IOT for underground project
 
 ..............................
 
-# Thanks to Ankit Khare
